@@ -37,10 +37,6 @@ void loop() {
 dist=duration/58; 
 if (dist<5){
 moveback();
-moveback();
-moveback();
-moveback();
-moveback();
 }
 if (dist>=10 ){
   moveforward(); 
